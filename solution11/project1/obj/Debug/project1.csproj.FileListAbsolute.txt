@@ -1,0 +1,10 @@
+C:\Users\alham\Downloads\swaiq solution\solution11\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\alham\Downloads\swaiq solution\solution11\project1\obj\Debug\project1.Form1.resources
+C:\Users\alham\Downloads\swaiq solution\solution11\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\alham\Downloads\swaiq solution\solution11\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\alham\Downloads\swaiq solution\solution11\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\alham\Downloads\swaiq solution\solution11\project1\bin\Debug\project1.exe.config
+C:\Users\alham\Downloads\swaiq solution\solution11\project1\bin\Debug\project1.exe
+C:\Users\alham\Downloads\swaiq solution\solution11\project1\bin\Debug\project1.pdb
+C:\Users\alham\Downloads\swaiq solution\solution11\project1\obj\Debug\project1.exe
+C:\Users\alham\Downloads\swaiq solution\solution11\project1\obj\Debug\project1.pdb
